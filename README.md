@@ -4,7 +4,7 @@ A three-phase autonomous rover that tracks a black line using IR sensors, detcte
 
 Built as part of ENGR 7B at UC Irvine.
 
-(PIC)
+![Rover Photo](images/Rover1.jpg)
 
 ---
 
