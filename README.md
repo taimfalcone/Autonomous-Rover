@@ -6,6 +6,7 @@ Built as part of ENGR 7B at UC Irvine.
 
 ![Rover Photo](images/Rover1.JPG)
 
+[Demo Video: Line Tracking](https://youtu.be/I8IufMo6ePo)
 ---
 
 ## How It Works
